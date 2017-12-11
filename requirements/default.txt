@@ -1,5 +1,5 @@
 -r base.txt
 
-sendgrid-django
-ddtrace
-mysqlclient
+sendgrid-django==4.1.0
+ddtrace==0.10.0
+mysqlclient==1.3.12
